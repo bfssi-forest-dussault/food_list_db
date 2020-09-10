@@ -1,0 +1,15 @@
+{
+  "name": "food_list_db",
+  "version": "0.1.0",
+  "description": "Food List DB",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Forest Dussault",
+  "license": "MIT"
+}
